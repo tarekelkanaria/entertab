@@ -50,7 +50,7 @@ export default {
       },
       keyframes: {
         blink: {
-          "50%": { opacity: 0 },
+          "50%": { opacity: "0" },
         },
       },
     },
